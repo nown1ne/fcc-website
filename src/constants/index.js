@@ -250,27 +250,6 @@ const projects = [
     image: jobit,
     source_code_link: "https://github.com/",
   },
-  {
-    name: "Phasal Bazar",
-    description:
-      "Executed on-field market research and devised a data-driven pricing strategy to empower Phasal Bazar in navigating competitive agricultural markets effectively.",
-    tags: [
-      {
-        name: "research",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "analysis",
-        color: "green-text-gradient",
-      },
-      {
-        name: "consulting",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
-  },
 ];
 const projecti = [
   {
