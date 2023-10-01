@@ -129,7 +129,7 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Non-Core Weekend",
+    title: "Non-Core Week",
     company_name: "Club Orientation & Guess-It-Mate",
     icon: starbucks,
     iconBg: "#383E56",
