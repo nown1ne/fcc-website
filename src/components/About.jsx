@@ -49,9 +49,9 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        Finance and Consulting Club is a student-run society. The club organizes bazillions of events such as workshops, quizzes, speaker sessions, 
+        Finance and Consulting Club is a student-run society. The club organizes tons of events such as workshops, quizzes, speaker sessions, 
         and competitions, helping students cultivate and 
-        polish their skills. The club also empowers students by allowing them to work on projects in collaboration with tip clubs of other colleges, hence grooming them befor they enter the real professional world.
+        polish their skills. The club also empowers students by allowing them to work on projects in collaboration with top clubs of other colleges, hence grooming them before they enter the real professional world.
         <br></br>The vision of the Finance and Consulting Club is to cultivate interest among the students in the financial sector as well as to promote it as a viable career option post their engineering degree. FCC will enable students the oppurtunity to explore the world of Finance, Business consulting, and Analytics.
       </motion.p>
       <img className={styled.abtim} style={{height:'450px'}} src={vec}/>
