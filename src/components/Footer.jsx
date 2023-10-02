@@ -71,7 +71,7 @@ const Footer = () => {
         </div>
       </div>
 
-      <div className="mt-6 text-center">
+      <div className="mt-6 text-center md:ml-4">
         <p className="text-sm">&copy; {new Date().getFullYear()} FCC. All rights reserved.</p>
         <p className="text-sm">Made with 💜 by the Tech Team </p>
       </div>
