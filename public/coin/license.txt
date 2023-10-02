@@ -1,0 +1,11 @@
+Model Information:
+* title:	100 Apex Coins
+* source:	https://sketchfab.com/3d-models/100-apex-coins-b83a3deb135e4d8bb52b5f71d204a9eb
+* author:	QuangCao (https://sketchfab.com/quangcao)
+
+Model License:
+* license type:	CC-BY-ND-4.0 (http://creativecommons.org/licenses/by-nd/4.0/)
+* requirements:	Author must be credited. Modified versions can not be distributed. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "100 Apex Coins" (https://sketchfab.com/3d-models/100-apex-coins-b83a3deb135e4d8bb52b5f71d204a9eb) by QuangCao (https://sketchfab.com/quangcao) licensed under CC-BY-ND-4.0 (http://creativecommons.org/licenses/by-nd/4.0/)

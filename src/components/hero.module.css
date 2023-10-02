@@ -4,6 +4,10 @@
     transparent, rgba(37,37,37,0.21),#000000) ;
     z-index: -10;
 }
+.maindiv{
+    display: flex;
+    justify-content: space-evenly;
+}
 @media (max-width:500px){
     .abtim{
         display: none;

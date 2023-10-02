@@ -1,6 +1,7 @@
 import { BrowserRouter } from "react-router-dom";
+import './index.css'
 import ScrollToTop from "react-scroll-to-top";
-import { About, Contact, Experience, Feedbacks, Hero, Navbar,Sponsors,  Works, StarsCanvas } from "./components";
+import { About, Contact, Experience, Feedbacks, Hero, Navbar,Sponsors,  Works, StarsCanvas ,Footer} from "./components";
 const App = () => {
   return (
     <BrowserRouter>
@@ -18,6 +19,9 @@ const App = () => {
           <Contact />
           <StarsCanvas />
         </div>
+        
+        <Footer/>
+
       <ScrollToTop className="rounded-3xl bg-[#915EFF]" smooth  width="39"  />
         
       </div>

@@ -14,7 +14,7 @@ const ProjectCard = ({
     return (
       <div className='p-9' >
         <div 
-          className='bg-tertiary p-5 rounded-xl sm:w-[300px] w-full'
+          className='bg-tertiary p-5 rounded-xl sm:w-[300px] w-full shadow-2xl'
           styles={{boxShadow: "0px 0px 30px #ffffff"}}>
           <div className='relative w-full h-[200px]'>
             <img
