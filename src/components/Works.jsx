@@ -20,9 +20,9 @@ const ProjectCard = ({
     <motion.div variants={fadeIn("up", "spring", index * 0.5, 0.75)}>
       <Tilt
         options={{
-          max: 45,
+          max: 20,
           scale: 1,
-          speed: 450,
+          speed: 250,
         }}
         className='bg-tertiary p-5 rounded-2xl sm:w-[360px] w-full'
       >
@@ -33,7 +33,7 @@ const ProjectCard = ({
             className='w-full h-full object-cover rounded-2xl'
           />
 
-          <div className='absolute inset-0 flex justify-end m-3 card-img_hover'>
+          <div className='absolute inset-0 flex justify-between m-3 card-img_hover'>
             
           </div>
         </div>

@@ -133,7 +133,7 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Non-Core Weekend",
+    title: "Non-Core Week",
     company_name: "Club Orientation & Guess-It-Mate",
     icon: starbucks,
     iconBg: "#383E56",
@@ -201,14 +201,6 @@ const testimonials = [
     company: "DEF Corp",
     image: "https://randomuser.me/api/portraits/men/5.jpg",
   },
-  {
-    testimonial:
-      "After FCC optimized our bussiness model, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
-  },
 ];
 
 const projects = [
@@ -252,27 +244,6 @@ const projects = [
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
-  },
-  {
-    name: "Phasal Bazar",
-    description:
-      "Executed on-field market research and devised a data-driven pricing strategy to empower Phasal Bazar in navigating competitive agricultural markets effectively.",
-    tags: [
-      {
-        name: "research",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "analysis",
-        color: "green-text-gradient",
-      },
-      {
-        name: "consulting",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: tripguide,
     source_code_link: "https://github.com/",
   },
 ];
