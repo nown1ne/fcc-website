@@ -1,6 +1,5 @@
 import React from "react";
 import { motion } from "framer-motion";
-import Marquee from "react-fast-marquee";
 import { styles } from "../styles";
 import { SectionWrapper } from "../hoc";
 import { fadeIn, textVariant } from "../utils/motion";
@@ -55,19 +54,10 @@ const Feedbacks = () => {
         </motion.div>
       </div>
       <div className={`-mt-20 pb-14 ${styles.paddingX} flex flex-wrap gap-7 `}>
-      <Marquee 
-                        gradient={false} 
-                        speed={80} 
-                        pauseOnHover={true}
-                        pauseOnClick={true} 
-                        delay={0}
-                        play={true} 
-                        direction="left"
-                    >
+      
         {testimonials.map((testimonial, index) => (
           <FeedbackCard key={testimonial.name} index={index} {...testimonial} />
         ))}
-        </Marquee>
       </div>
     </div>
   );
