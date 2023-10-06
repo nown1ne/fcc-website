@@ -33,7 +33,7 @@ const ProjectCard = ({
             className='w-full h-full object-cover rounded-2xl'
           />
 
-          <div className='absolute inset-0 flex justify-aroune m-3 card-img_hover'>
+          <div className='absolute inset-0 flex justify-around m-3 card-img_hover'>
             
           </div>
         </div>
@@ -78,7 +78,7 @@ const Works = () => {
         </motion.p>
       </div>
 
-      <div className='mt-20 flex flex-wrap gap-7'>
+      <div className='mt-20 flex flex-wrap justify-around gap-7'>
         {projects.map((project, index) => (
           <ProjectCard key={`project-${index}`} index={index} {...project} />
         ))}
