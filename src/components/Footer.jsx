@@ -12,8 +12,7 @@ const Footer = () => {
         <div className="text-center md:text-left mb-4 md:mb-0 md:mr-4">
           <h2 className="text-2xl font-bold">FCC NITRR</h2>
           <p className="text-sm">GE Road, Amanaka, Raipur</p>
-          <p className="text-sm">Email: info@example.com</p>
-          <p className="text-sm">Phone: +1 (123) 456-7890</p>
+          <p className="text-sm">Email: financeclub@nitrr.ac.in</p>
         </div>
 
         <div className="text-center md:self-center md:mr-2">
@@ -25,12 +24,7 @@ const Footer = () => {
           >
             <img src={facebookIcon} alt="Facebook" style={{width:'35px'}} />
           </a>
-          <a
-            href="#"
-            className="text-2xl hover:text-[#915EFF] mx-2"
-          >
-            <img src={twitterIcon} alt="Twitter" style={{width:'35px'}} />
-          </a>
+        
           <a
             href="https://www.linkedin.com/company/finance-nitrr/"
             className="text-2xl hover:text-[#915EFF] mx-2"
