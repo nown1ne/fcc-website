@@ -195,10 +195,10 @@ const testimonials = [
   },
   {
     testimonial:
-      "I've never met an organization which truly cares about their clients' success like FCC does.",
-    name: "Chris Brown",
+      "Partnering with the FCC has been a game-changer for our nail industry startup. Their expertise in market entry strategies, in-depth market research, and cutting-edge customer acquisition methods have been instrumental in our growth and success",
+    name: "Aishwarya Yadav",
     designation: "COO",
-    company: "DEF Corp",
+    company: "The Nail Company",
     image: "https://randomuser.me/api/portraits/men/5.jpg",
   },
 ];
