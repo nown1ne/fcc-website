@@ -187,10 +187,10 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to get the project back on track, but FCC proved me wrong.",
-    name: "Sara Lee",
+      "Their expertise, responsive approach, and empathetic problem-solving were impressive. Their data-driven recommendations and seamless collaboration exceeded our expectations. I highly recommend the club for transformative and innovative solutions.",
+    name: "Archit Watts",
     designation: "CFO",
-    company: "Acme Co",
+    company: "CMGGA",
     image: "https://randomuser.me/api/portraits/women/4.jpg",
   },
   {
