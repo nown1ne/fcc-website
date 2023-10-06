@@ -19,7 +19,7 @@ const Hero = () => {
             Finance & <span className='text-[#915EFF]'>Consulting Club</span>
           </h1>
           <p className={`${styles.heroSubText} mt-4 text-secondary`}>
-          "NIT Raipur's students are fostering<br className='sm:block hidden' />
+          "NIT Raipur's students are fostering <br className='sm:block hidden' />
           financial and consulting awareness through FCC.<br className='sm:block hidden' /> Join our initiative today!"
           </p>
           
