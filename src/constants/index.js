@@ -228,7 +228,7 @@ const projects = [
   {
     name: "The Nail Company",
     description:
-      "Strategically devised a comprehensive market entry and expansion plan to facilitate the successful entry of a nail-focused company into new markets.",
+      "Strategically devising a comprehensive market entry and expansion plan to facilitate the successful entry of a nail-focused company into new markets.",
     tags: [
       {
         name: "strategizing",
